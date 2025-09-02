@@ -1,0 +1,11 @@
+Backend 
+npm install
+cp .env.example .env
+npm run dev
+
+
+Frontend
+npm install
+npm run dev
+
+
